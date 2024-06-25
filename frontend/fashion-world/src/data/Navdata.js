@@ -1,0 +1,1 @@
+export const  Navdata=["Women","Men","Company","Stores"]
