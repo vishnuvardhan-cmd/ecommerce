@@ -12,7 +12,7 @@ function HomePage() {
         <HomeSectionCarousel />
         <HomeSectionCarousel />
         <HomeSectionCarousel />
-      </div>
+      </div>s
     </div>
   );
 }
